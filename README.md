@@ -1,6 +1,6 @@
 # filmler_uygulamasi
 
-A new Flutter project.
+Bloc state management yöntemi kullanılarak MVM mimarisi temelinde WebAPI depolama kullanılarak yapılmış filmler projem.
 
 ## Getting Started
 
